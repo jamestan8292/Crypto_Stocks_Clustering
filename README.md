@@ -31,7 +31,9 @@ This application is written for use with Jupyter Lab. It uses the following pack
 
 In Windows GitBash or Mac Terminal app, enter "Jupyter Lab". Then open and run "crypto_investments.ipynb".
 
-The “crypto_market_data.csv” file must be in a sub-folder 'Resources'.
+The "crypto_market_data.csv" file must be in a sub-folder "Resources".
+
+
 ---
 
 ## Contributors
